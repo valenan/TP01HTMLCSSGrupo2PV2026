@@ -14,4 +14,4 @@ Gestor de Proyectos: Desde la pagina del gobierno https://www.argentina.gob.ar/n
   * article: para el uso de un elemento independiente en el momento de implementar proyectos
   * section: para separar
 
-Detalle: Para el detalle construi de arriba hacia abajo la pagina, agregando etiquetas de titulo para ayudar con la jerarquia de la pagina. Para la lista y los hipervinculos utilize la etiqueta <a> y le agregue el detalle de target para que los enlaces se habran en una pagina nueva. 
+Detalle.html: Para el detalle construi de arriba hacia abajo la pagina, agregando etiquetas de titulo para ayudar con la jerarquia de la pagina. Para la lista y los hipervinculos utilize la etiqueta <a> y le agregue el detalle de target para que los enlaces se habran en una pagina nueva. 
